@@ -1,15 +1,17 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "473VV338ZU.com.zgpeace.UniversalLinks",
-				"paths": [ "*"]
-			},
-			{
-				"appID": "473VV338ZU.com.zgpeace.UniversalLinksNew",
-				"paths": [ "*"]
-			}
-		]
-	}
+
+    "applinks":{
+
+        "apps":[],
+
+        "details":[
+
+            {
+                "appID":”JC88YP7GKU.com.livibank.testapp.hk",
+                "paths":["*"]
+            }
+        ]
+
+    }
+
 }
